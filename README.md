@@ -1,5 +1,4 @@
 # Ten Foot Laser Pole
-A java class library
 
 Ten Foot Laser Pole is a java class library I have been working on for some time. It is a direct successor to a previously unnamed library which can be found [here.](https://scratch.mit.edu/discuss/topic/123874/)
 
