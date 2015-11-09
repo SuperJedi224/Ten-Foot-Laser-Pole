@@ -25,4 +25,4 @@ sj224.tflp.util.WeightedRandom
 sj224.tflp.util.workflow.Workflow
 ```
 
-The name is a refrence to [this Darths and Droids strip.](http://www.darthsanddroids.net/episodes/0001.html)
+The name is a reference to [this Darths and Droids strip.](http://www.darthsanddroids.net/episodes/0001.html)
