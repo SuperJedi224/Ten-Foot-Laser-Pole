@@ -29,7 +29,9 @@ sj224.tflp.util.event.EventPriority
 
 The name is a reference to [this Darths and Droids strip.](http://www.darthsanddroids.net/episodes/0001.html)
 ---
+
 [View the latest version of the docs](https://rawgit.com/SuperJedi224/Ten-Foot-Laser-Pole/master/1.02/doc/index.html).
+
 ---
 
 ![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
