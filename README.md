@@ -22,6 +22,9 @@ sj224.tflp.util.PopupGui
 sj224.tflp.util.StringUtil
 sj224.tflp.util.WeightedRandom
 sj224.tflp.util.workflow.Workflow
+sj224.tflp.util.event.Event
+sj224.tflp.util.event.EventBus
+sj224.tflp.util.event.EventPriority
 ```
 
 The name is a reference to [this Darths and Droids strip.](http://www.darthsanddroids.net/episodes/0001.html)
