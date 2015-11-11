@@ -1,0 +1,2 @@
+Changes for version 1.02:
+-Added event engine (package sj224.tflp.util.event; Event and EventBus classes, EventPriority enum)
