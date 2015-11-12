@@ -16,7 +16,7 @@ public final class Workflow<T>{
 			w=theWorkflow;
 			this.val=val;
 		}
-		boolean halt;
+		boolean halt,done;
 		@SuppressWarnings({ "rawtypes", "unchecked" })
 		public void run(){
 			Function[]tasks=w.tasks.clone();
@@ -25,6 +25,7 @@ public final class Workflow<T>{
 				if(f==null||halt)break;
 				val=f.apply(val);
 			}
+			done=true;
 		}
 		T val;
 	}
@@ -165,11 +166,7 @@ public final class Workflow<T>{
 	
 	public T run(T o){
 		start(o);
-		try {
-			join();
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		}
+		while(!t.done);
 		return t.val;
 	}	
 	/**
