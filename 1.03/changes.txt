@@ -1,0 +1,2 @@
+Changes for version 1.03:
+-Fixed problems with workflow termination
