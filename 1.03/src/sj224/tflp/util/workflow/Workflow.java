@@ -139,7 +139,7 @@ public final class Workflow<T>{
 	
 	@SuppressWarnings({ "unchecked", "rawtypes" })
 	public void start(T o){
-		new WorkflowThread(this,o).start();
+		(t=new WorkflowThread(this,o)).start();
 	}
 	/**
 	 * Equivalent to start(null).
