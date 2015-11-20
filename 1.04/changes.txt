@@ -1,0 +1,3 @@
+-Exceptions, exceptions, exceptions
+-Better docs on some stuff
+-Added new features to the StringUtil class
