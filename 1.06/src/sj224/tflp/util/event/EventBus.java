@@ -51,7 +51,7 @@ public final class EventBus{
 	 */
 	@SuppressWarnings({ "rawtypes", "unchecked" })
 	public boolean post(Event e){
-		if(p!=null)p.println(e);
+		if(p!=null)e.log(p);
 		List<Pair<EventPriority,Consumer>>listeners=listeners(e.getClass());
 		for(Pair<EventPriority,Consumer>pair:listeners){pair.two.accept(e);if(e.isCancelled())return true;}
 		return false;
