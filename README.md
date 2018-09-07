@@ -31,7 +31,7 @@ The name is a reference to [this Darths and Droids strip.](http://www.darthsandd
 
 ---
 
-[View the latest version of the docs](https://rawgit.com/SuperJedi224/Ten-Foot-Laser-Pole/master/1.06/doc/index.html).
+[View the latest version of the docs](https://rawgit.com/SuperJedi224/Ten-Foot-Laser-Pole/master/1.05/doc/index.html).
 
 ---
 
