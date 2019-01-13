@@ -37,4 +37,4 @@ The name is a reference to [this Darths and Droids strip.](http://www.darthsandd
 
 ![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Depending on the nature of your intended use of the library, I may be willing to waive the Share-Alike requirement upon request.
